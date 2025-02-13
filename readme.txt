@@ -1,4 +1,4 @@
-This is a template I use for most assignment types in subjects of Master of Biomedical Engineering, University of Melbourne.
+This is a template I use for most assignment types in subjects of Master of Biomedical Engineering, University of Melbourne, such as Biomedical Engineering Data Analytics, and Medical Imaging.
 
 This template is intended to be used in Overleaf.
 
